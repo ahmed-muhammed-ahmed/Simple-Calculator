@@ -24,7 +24,7 @@ body {
   grid-template-rows: minmax(12rem, auto) repeat(5, 1fr);
   width: 60rem;
   height: 85rem;
-  margin: 10rem 0;
+  margin-top: 10rem;
   padding: 4rem 4.8rem;
   border-radius: 1rem;
   box-shadow: 1px 0 0 #ddd, 1px 1px 0 #999, 2px 1px 0 #ddd, 2px 2px 0 #999,
